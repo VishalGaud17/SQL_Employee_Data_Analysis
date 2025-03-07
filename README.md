@@ -58,12 +58,12 @@ This project performs **Employee Data Analysis** using SQL to extract key insigh
 ## 📥 How to Use This Project
 ### 1️⃣ Clone this repository:
 ```sh
-git clone https://github.com/your-username/employee-data-analysis.git
+git clone https://github.com/VishalGaud17/employee-data-analysis.git
 ```
 
 ### 2️⃣ Import the SQL file into your database
 ### 3️⃣ Run the queries to generate insights
 
 ## 📂 Repository Link
-🔗 [GitHub Repository](https://github.com/your-username/employee-data-analysis)
+🔗 [GitHub Repository](https://github.com/VishalGaud17/SQL_Employee_Data_Analysis)
 
