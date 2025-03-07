@@ -16,8 +16,8 @@ This project performs **Employee Data Analysis** using SQL to extract key insigh
 ### 📂 SQL Queries
 - `employee_data_analysis.sql` → Contains all the queries for staging, exploration, and insights
 
-### 📂 Data (if applicable)
-- `employee_dataset.csv` → Sample dataset (if available)
+### 📂 Data 
+- `employee_dataset.csv` → Sample dataset 
 
 ## 🚀 Queries Included
 ### 1️⃣ Data Staging & Exploration
